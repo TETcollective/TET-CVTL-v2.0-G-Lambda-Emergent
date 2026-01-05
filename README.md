@@ -10,6 +10,8 @@ Verso un Modello Parameter-Free Assoluto
 
 Questo repository presenta una teoria emergente che deriva le costanti fondamentali G (gravitazionale) e Λ (cosmologica) da principi topologico-entropici nel framework TET–CVTL versione 2.0.
 
+[![DOI] https://doi.org/10.5281/zenodo.18150345
+
 L'obiettivo è costruire un modello fisico completamente parameter-free, dove le "costanti" non sono input arbitrari ma emergono naturalmente dalla struttura topologica e dall'entropia dello spazio-tempo quantistico.
 
 ## Contenuti principali
