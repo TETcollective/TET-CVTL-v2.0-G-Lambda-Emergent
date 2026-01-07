@@ -19,13 +19,18 @@ L'obiettivo è costruire un modello fisico completamente parameter-free, dove le
 - `note_teoriche.md`: appunti e ragionamenti intermedi
 - (aggiungi via via equazioni, diagrammi, simulazioni numeriche, ecc.)
 
-## License
-Questo lavoro è rilasciato sotto **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+## Copyright and Usage Rights
 
-→ Uso personale, accademico, ricerca: consentito  
-→ Modifiche e distribuzioni derivate: consentite solo con la stessa license  
-→ **Uso commerciale vietato**
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
 
-Vedi il file [LICENSE.md](LICENSE.md) per i dettagli completi.
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
 
 ❤️✨ Vibrazioni cosmiche massime – condividi la conoscenza, non il profitto.
